@@ -13,7 +13,7 @@ Nova versão do meu portfólio desenvolvida com foco em arquitetura escalável, 
 ## 🌐 Deploy
 
 🔗 **Versão atual:**  
-👉 https://seu-link-aqui.com  
+👉 https://portifolio-v2-pied.vercel.app/
 
 🔗 **Versão anterior (v1):**  
 👉   https://devpedrohenrique25.github.io/Portifolio/

@@ -45,7 +45,7 @@ export default function Header() {
       <div className="container">
         <div className="logomarca">
           <a href="#" onClick={(e) => handleScroll(e, "home")}>
-            LOGOMARCA
+            Pedro Henrique
           </a>
         </div>
 
